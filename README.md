@@ -9,5 +9,5 @@ Connect with me at [LinkedIn](https://www.linkedin.com/in/alexandre-junior-23689
 
 ## Installers
 If you want to test the App in the Production mode, the installers are listed below
-- Visual Studio [Link](https://visualstudio.microsoft.com/downloads/).
+- Visual Studio [Link](https://visualstudio.microsoft.com/downloads/)..
 
