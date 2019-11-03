@@ -13,5 +13,10 @@ namespace WebSocketChat
         {
      
         }
+
+        public async Task SendMessage(string socketId, string message )
+        {
+            await InvokeClientMethodToAllAsync("pingMessage", socketId, message);
+        }
     }
 }
